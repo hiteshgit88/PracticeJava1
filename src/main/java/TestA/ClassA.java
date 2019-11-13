@@ -1,0 +1,4 @@
+package TestA;
+
+class ClassA {
+}
