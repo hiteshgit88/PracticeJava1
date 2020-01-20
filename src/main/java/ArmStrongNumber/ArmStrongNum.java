@@ -6,7 +6,7 @@ public class ArmStrongNum {
         int n = 153, sum = 0, mod, num;
         num=n;
 
-        while(n>0) //using while loop
+        while(n>0)
         {
             mod = n%10;
             n = n/10;

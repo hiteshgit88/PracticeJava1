@@ -7,7 +7,7 @@ public class EnumClass {
     enum eBrowser
     {
         CHROME(1),
-        FIRFOX(2),
+        FIREFOX(2),
         SAFARI(3);
 
         private int browserptr;
@@ -36,7 +36,7 @@ public class EnumClass {
             case CHROME:
                 System.out.println("Chrome browser");
                 break;
-            case FIRFOX:
+            case FIREFOX:
                 System.out.println("Firefox browser");
                 break;
             case SAFARI:
